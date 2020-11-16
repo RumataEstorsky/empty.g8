@@ -6,7 +6,7 @@ val logging = Seq(
     "ch.qos.logback" % "logback-classic" % "1.2.3"
 )
 
-val specs2Version = "4.10.1"
+val specs2Version = "4.10.5"
 val specs2= Seq(
     "org.specs2" %% "specs2-core" % specs2Version % "test"
 )
