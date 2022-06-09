@@ -3,7 +3,7 @@ import sbt._
 object Dependencies {
 
   val logging = Seq(
-    "com.typesafe.scala-logging" %% "scala-logging" % "3.9.4",
+    "com.typesafe.scala-logging" %% "scala-logging" % "3.9.5",
     "ch.qos.logback" % "logback-classic" % "1.2.11"
   )
 
